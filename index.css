@@ -1,0 +1,150 @@
+.contayner{
+    max-width: 1140px;
+    margin: 0 auto;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.brinch_div{
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.nav_ichdegp{
+    cursor: pointer;
+    display: flex;
+    gap: 41px;
+    justify-content: space-between;
+    justify-content: center;
+}
+.nav_ichdegp :hover{
+color: chocolate;
+cursor: pointer;
+}
+
+.brinch_div{
+    display: flex;
+    gap: 41px;
+}
+
+.buttonn{
+    width: 155px;
+    height: 45px;
+    color: aliceblue;
+    background-color: chocolate;
+    border-radius: 10px;
+}
+.main_ichdegdivlar{
+    margin-top: 16px;
+    width: 1140px;
+    height: 608px;
+    position: relative;
+    display: flex;
+}
+.main_yozular{
+    width: 555px;
+    height: 356px;
+    margin-top: 160px;
+}
+.main_yozular h1{
+font-size: 45px;
+width: 555px;
+height: 161;
+}
+.main_yozular{
+    width: 555px;
+    height: 43;   
+}
+.buttonm{
+    width: 158px;
+    height: 60px;
+    background-color: chocolate;
+    color: aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.butto{
+    cursor: pointer;
+    border: 2px solid rgb(204, 133, 10);
+    background-color: aliceblue;
+    width: 158px;
+    height: 60px;
+    color: rgb(204, 133, 10);
+    border-radius: 10px;
+}
+.buttonlar_uchun{
+    position: absolute;
+    top: 0px;
+    margin-top: 456px;
+}
+.main_ichdegrasmlar{
+    width: 1080px;
+    height: 333px;
+    display: flex;
+   margin-top: 115px;
+    justify-content: space-between;
+}
+.main_rasmlar_uchun{
+    margin-top: 103px;
+    text-align: center;
+    width: 300px;
+    height: 228px;
+}
+.yozucha{
+    text-align: center;
+    position: absolute;
+}
+.yozucha p{
+color: chocolate;
+margin-left: 394px;
+
+}
+.yozucha h2{
+    margin: 1px;
+    margin-left: 394px;
+}
+.kata_rasm{
+    width: 1140px;
+    height: 500px;
+    margin-top: 123px;
+    display: flex;
+}
+.kata_rasm_yozular{
+    width: 488px;
+    height: 315px; 
+    margin-left: 97px;
+    margin-top: 93px;
+}
+.main_ichdeg_menyular{
+    margin-top: 115px;
+    width: 1140px;
+    height: 1220px;
+}
+.yozular{
+    margin-left: 197px;
+    text-align: center;
+    width: 748px;
+    height: 146px;
+}
+.menyu_uchun{
+    width: 360px;
+    height: 446px;
+}
+.menyu_uchun_yozularuchun{
+    display: flex;
+    justify-content: space-between;
+}
+.menyu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.buttooo{
+    margin-top: 50px;
+    margin-left: 449px;
+    cursor: pointer;
+    border: 2px solid rgb(204, 133, 10);
+    background-color: aliceblue;
+    width: 158px;
+    height: 60px;
+    color: rgb(204, 133, 10);
+    border-radius: 10px;
+}
+
